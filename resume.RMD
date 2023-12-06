@@ -59,7 +59,7 @@ Please note that this is a *real* resume, and I'm really looking for a PhD
 student position at the moment. I made this resume following a recommendation 
 that it would effectively showcase my qualifications to prospective supervisors.
 
-***I hold a master's degree in Biochemistry and Molecular Biology from Fujian Medical University and have 5 years of experience in the field of precision medicine for cancer, specializing in NGS Bioinformatics analysis and statistical work. I am seeking a Ph.D. Position in the field of molecular biology or Bioinformatics related to cancer or other interesting topic. I have participated in multiple research projects and involved in the publication of four papers1-4 to date. Specifically, I played a significant role in three studies 1, 3-5 focused on the analysis of tumor cohort NGS data, where my responsibilities primarily involved data compilation, statistical analysis, and visualization.***
+***I hold a master's degree in Biochemistry and Molecular Biology from Fujian Medical University and have 5 years of experience in the field of precision medicine for cancer, specializing in NGS Bioinformatics analysis and statistical work. I am seeking a Ph.D. Position in the field of molecular biology or Bioinformatics related to cancer or other interesting topic. I have participated in multiple research projects and involved in the publication of four papers$^{1-4}$ to date. Specifically, I played a significant role in three studies $^{1, 3-5}$ focused on the analysis of tumor cohort NGS data, where my responsibilities primarily involved data compilation, statistical analysis, and visualization.***
 
 If you are interested in my background and skills, please feel free to contact me.
 
@@ -96,8 +96,10 @@ Shanghai City, China
 2016
 
 Research direction: Mechanism Analysis of Post-transcriptional Modification Process, including RNA splicing and protein ubiquitination modification
+
 - Performed molecular experiments to explore how QKI-5 protein regulates the ADD3 gene alternative splicing in cancer$^{2}$.
 - Explore the role of SPSB1-mediated ubiquitination in the initiation and progression of tumorigenesis.
+<!-- - *The decision to quit the Ph.D. position at SIBS was due to a family health emergency and financial responsibilities, later intensified by the loss of my parents, leading to a period of reflection and renewed commitment to research.* -->
 
 Research Experience {data-icon=laptop}
 --------------------------------------------------------------------------------
@@ -131,10 +133,9 @@ Shanghai, China
 ::: concise
 - Contribute to academic publishing endeavors by analysis clinical NGS data and drafting academic manuscripts. 
 - Review literature and Conference Presentations and extract key message for recording in the OrigiMed's tumor precision medicine knowledge base.
-- Synthesize complex analytics-derived insights, gene prevalence, gene variant-related clinical prognosis, and gene-related clinical facts into easily understandable, actionable recommendations for medical or biological professionals.
-- Analyzed whole-exome sequencing data. 
-- Wrote analysis pipelines of ChIP-seq, single cell DNA-seq and single cell RNA-seq.
-- Studied tumor NGS real world data and wrote research reports. 
+- Generate complex analytics-derived insight report, including gene prevalence, gene variant-related clinical prognosis, and gene-related clinical facts into easily understandable, actionable recommendations for medical or biological professionals.
+- Analyzed lable free proteing sequencing data. 
+-  
 - Also did 
 :::
 
